@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 👨‍💻 [Google Scholar](https://scholar.google.com/citations?user=pOpgtRgAAAAJ)
+- 😎 [Personal Website](http://pdaicode.github.io) 
+
 <!--
 **pdaicode/pdaicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
