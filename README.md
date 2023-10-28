@@ -2,7 +2,7 @@
 
 - 👨‍💻 [Google Scholar](https://scholar.google.com/citations?user=pOpgtRgAAAAJ)
 - 😎 [Personal Website](http://pdaicode.github.io) 
-
+- ⚡ [YT Channel](https://www.youtube.com/@incomepassived)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdaicode)](https://github.com/anuraghazra/github-readme-stats)
