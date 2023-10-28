@@ -3,6 +3,7 @@
 - 👨‍💻 [Google Scholar](https://scholar.google.com/citations?user=pOpgtRgAAAAJ)
 - 😎 [Personal Website](http://pdaicode.github.io) 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pdaicode&show_icons=true&theme=cobalt)
 <!--
 **pdaicode/pdaicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
